@@ -1,0 +1,19 @@
+div{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQesYcU3vFvGE43Ok4SusZNBycKzTNe28rqpg&usqp=CAU);
+    background-position: center;
+    background-size:300px;
+    background-repeat: no-repeat;
+    margin-top: 300px;
+    margin-left: 650px;
+    display: inline-block;
+    border: 1px solid;
+    border-color:darkorange;
+    border-width: 2px;
+}
+body{
+    background-color:ivory;
+}
